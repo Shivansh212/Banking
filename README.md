@@ -5,22 +5,22 @@ This repository contains a Decision Tree Classifier implementation to predict wh
 
 **Features**
 
-Preprocessing of demographic and behavioral data
+.Preprocessing of demographic and behavioral data
 
-Building and training a Decision Tree Classifier
+.Building and training a Decision Tree Classifier
 
-Evaluating model performance using accuracy, precision, recall, and confusion matrix
+.Evaluating model performance using accuracy, precision, recall, and confusion matrix
 
 **The dataset consists of various customer attributes such as:**
 
-Age
+.Age
 
-Job
+.Job
 
-Education
+.Education
 
-Marital
+.Marital
 
-Housing
+.Housing
 
-Other relevant behavioral features
+.Other relevant behavioral features
